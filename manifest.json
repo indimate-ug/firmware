@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-02-22T18:09:44Z",
+  "generated_at_utc": "2026-02-22T19:11:41Z",
   "latest_by_model": {
     "VBSA": "VBSA-1.0.4-22.02.26"
   },
@@ -12,7 +12,7 @@
       "size_bytes": 648560,
       "sha256": "09b2a6984cb652c7a59cee967ef119f7fd592ed90c1b2213bc22a8aee6fe91db",
       "file_name": "VBSA-1.0.4-22.02.26.bin",
-      "url": "https://<owner>.github.io/<repo>/firmware/VBSA-1.0.4-22.02.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.0.4-22.02.26.bin",
       "description": "New version for OTA test."
     },
     {
@@ -22,7 +22,7 @@
       "size_bytes": 648560,
       "sha256": "09b2a6984cb652c7a59cee967ef119f7fd592ed90c1b2213bc22a8aee6fe91db",
       "file_name": "VBSA-1.0.1-21.02.26.bin",
-      "url": "https://<owner>.github.io/<repo>/firmware/VBSA-1.0.1-21.02.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.0.1-21.02.26.bin",
       "description": "Stability improvements and reconnect fixes."
     }
   ]
