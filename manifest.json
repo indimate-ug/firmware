@@ -1,10 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-02-22T20:09:20Z",
+  "generated_at_utc": "2026-02-23T19:09:20Z",
   "latest_by_model": {
-    "VBSA": "VBSA-1.0.6-22.02.26"
+    "VBSA": "VBSA-1.0.7-23.02.26"
   },
   "releases": [
+    {
+      "model": "VBSA",
+      "firmware_code": "VBSA-1.0.7-23.02.26",
+      "build_rank": 1000007260223,
+      "size_bytes": 649264,
+      "sha256": "1aa4cbaaa2494822f5542ecdd1d49874d2cd6554995322dba58efe745e2d55a4",
+      "file_name": "VBSA-1.0.7-23.02.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.0.7-23.02.26.bin"
+    },
     {
       "model": "VBSA",
       "firmware_code": "VBSA-1.0.6-22.02.26",
