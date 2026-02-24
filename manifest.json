@@ -1,10 +1,20 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-02-23T19:09:20Z",
+  "generated_at_utc": "2026-02-24T13:24:08Z",
   "latest_by_model": {
-    "VBSA": "VBSA-1.0.7-23.02.26"
+    "VBSA": "VBSA-1.0.8-24.02.26"
   },
   "releases": [
+    {
+      "model": "VBSA",
+      "firmware_code": "VBSA-1.0.8-24.02.26",
+      "build_rank": 1000008260224,
+      "size_bytes": 649264,
+      "sha256": "b9b308e08ad44b1eff6a30c1802d757a0e8237765c5204c3cfe3b4322af6d6ab",
+      "file_name": "VBSA-1.0.8-24.02.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.0.8-24.02.26.bin",
+      "description": "Patched iOS auto connect bug."
+    },
     {
       "model": "VBSA",
       "firmware_code": "VBSA-1.0.7-23.02.26",
