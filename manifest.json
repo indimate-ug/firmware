@@ -1,10 +1,20 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-03-05T18:25:05Z",
+  "generated_at_utc": "2026-03-06T09:51:57Z",
   "latest_by_model": {
-    "VBSA": "VBSA-1.1.0-05.03.26"
+    "VBSA": "VBSA-1.1.1-06.03.26"
   },
   "releases": [
+    {
+      "model": "VBSA",
+      "firmware_code": "VBSA-1.1.1-06.03.26",
+      "build_rank": 1001001260306,
+      "size_bytes": 643536,
+      "sha256": "418cb8c6cca7e4ea69315d1d4830a5da421c854a00b43e229eb157a521a7d1d4",
+      "file_name": "VBSA-1.1.1-06.03.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.1.1-06.03.26.bin",
+      "description": "Improved battery voltage measurement"
+    },
     {
       "model": "VBSA",
       "firmware_code": "VBSA-1.1.0-05.03.26",
