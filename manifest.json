@@ -1,10 +1,20 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-03-06T14:20:37Z",
+  "generated_at_utc": "2026-03-06T15:17:34Z",
   "latest_by_model": {
-    "VBSA": "VBSA-1.1.2-06.03.26"
+    "VBSA": "VBSA-1.1.3-06.03.26"
   },
   "releases": [
+    {
+      "model": "VBSA",
+      "firmware_code": "VBSA-1.1.3-06.03.26",
+      "build_rank": 1001003260306,
+      "size_bytes": 646160,
+      "sha256": "b2e8950e48cea936be1b4d710719a6d9dda6ab8861f6f2b0e270a0e71b82e599",
+      "file_name": "VBSA-1.1.3-06.03.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.1.3-06.03.26.bin",
+      "description": "Adjusted startup animation"
+    },
     {
       "model": "VBSA",
       "firmware_code": "VBSA-1.1.2-06.03.26",
