@@ -1,16 +1,26 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-05-18T09:20:09Z",
+  "generated_at_utc": "2026-05-18T10:23:34Z",
   "latest_by_model": {
-    "VBSA": "VBSA-1.1.5-15.05.26"
+    "VBSA": "VBSA-1.1.6-15.05.26"
   },
   "releases": [
+    {
+      "model": "VBSA",
+      "firmware_code": "VBSA-1.1.6-15.05.26",
+      "build_rank": 1001006260515,
+      "size_bytes": 649696,
+      "sha256": "54f3bef951cd80e74c0c7ace5de9a5ee34fa7cfd2a3461cf46ab269f627ac56a",
+      "file_name": "VBSA-1.1.6-15.05.26.bin",
+      "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.1.6-15.05.26.bin",
+      "description": "Rear Collision Warning support and group ride mode added"
+    },
     {
       "model": "VBSA",
       "firmware_code": "VBSA-1.1.5-15.05.26",
       "build_rank": 1001005260515,
       "size_bytes": 649696,
-      "sha256": "f17c22f366f915c8a7878c6a49bbdd227ef34ec4abb4092609ac83f2cba5b6a1",
+      "sha256": "a4b63fbced848fa86127bd510ba08628f16534b9429cd767fbf2735bfeeb173a",
       "file_name": "VBSA-1.1.5-15.05.26.bin",
       "url": "https://github.com/indimate-ug/firmware/raw/refs/heads/main/VBSA-1.1.5-15.05.26.bin",
       "description": "Added Rear Collision Warning Support, Added Group ride mode"
